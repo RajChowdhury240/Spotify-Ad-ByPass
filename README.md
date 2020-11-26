@@ -5,8 +5,8 @@
 ## Installation
 
 ```bash
-  $ git clone 
-  $ cd 
+  $ git clone https://github.com/Rajchowdhury420/Spotify-Ad-ByPass
+  $ cd Spotify-Ad-ByPass
   $ sudo chmod u+x Ad-Bypass.sh
   $ sudo ./Ad-Bypass.sh
 ```
