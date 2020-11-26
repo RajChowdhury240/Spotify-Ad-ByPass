@@ -15,7 +15,7 @@
 ### Works only in Linux with root permission ! just do sudo su & you're Good to Go !
 
 
-## Removing
+## Uninstalling
 
 ```bash
   $ sudo chmod u+x uninstall.sh
