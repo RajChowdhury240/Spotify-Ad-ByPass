@@ -11,6 +11,10 @@
   $ sudo ./Ad-Bypass.sh
 ```
 
+
+### Works only in Linux with root permission ! just do sudo su & you're Good to Go !
+
+
 ## Removing
 
 ```bash
