@@ -22,5 +22,8 @@
   $ sudo ./uninstall.sh
 ```
 
+### Note :
+```
  if you want to modify/add/remove any url to the blocker just edit `Blacklists.txt`
  file.
+```
