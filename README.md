@@ -12,7 +12,7 @@
 ```
 
 
-### Works only in Linux with root permission ! just do sudo su & you're Good to Go !
+## Works only in Linux with root permission ! just do sudo su & you're Good to Go !
 
 
 ## Uninstalling
