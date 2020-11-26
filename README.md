@@ -1,5 +1,5 @@
 
-![Spotify-Premium](https://cdn.statically.io/img/theleaker.com/f=auto/wp-content/uploads/2020/10/download-Spotify-premium-apk-for-free-e1602489798917.jpg)
+![Spotify-Premium](https://excrack.com/wp-content/uploads/2020/05/Spotify-Premium-8.5.57.1164-Cracked-APK-Mod-2020-Latest.png)
 
 <h1 align="center">Spotify Ad-Bypass Script</h1>
 <p align="center">Spotify Ad Bypass Done 😂🎉</p>
