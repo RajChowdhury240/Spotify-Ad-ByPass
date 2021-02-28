@@ -1,5 +1,4 @@
 #!/bin/bash
-# check for the OS
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
   #Linux
   HOSTFILE="/etc/hosts"
@@ -15,7 +14,6 @@ fi
 HEADER="# Start Spotify Ad-Bypass"
 FOOTER="# End Spotify Ad-Bypass"
 
-# check for root privilage
 if [ "$EUID" -ne 0 ]
 then
   printf "requires root privileges!\nPlease run as root."
@@ -23,7 +21,7 @@ then
   exit
 fi
 
-# check if there is old one so we remove it first
+
 line_start=$(grep -n "$HEADER" "$HOSTFILE" | grep -Eo '^[^:]+')
 if [ "$line_start" ]
 then
