@@ -1,4 +1,5 @@
 #!/bin/bash
+
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
   #Linux
   HOSTFILE="/etc/hosts"
