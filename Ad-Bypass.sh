@@ -1,4 +1,5 @@
 #!/bin/bash
+
 # check for the OS
 
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
