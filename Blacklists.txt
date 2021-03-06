@@ -1,5 +1,4 @@
 # Start Spotify AdBlock
-
 0.0.0.0 1435575.fls.doubleclick.net
 0.0.0.0 2542116.fls.doubleclick.net
 0.0.0.0 2mdn.net
