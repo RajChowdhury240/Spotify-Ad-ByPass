@@ -15,8 +15,8 @@ else
   exit
 fi
 
-HEADER="# Start Spotify Ad-Bypass"
-FOOTER="# End Spotify Ad-Bypass"
+HEADER="# Start Spotify AdBlock"
+FOOTER="# End Spotify AdBlock"
 
 # check for root privilage
 if [ "$EUID" -ne 0 ]
