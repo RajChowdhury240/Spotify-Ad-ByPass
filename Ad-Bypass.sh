@@ -2,7 +2,6 @@
 
 # check for the OS
 
-
 if [[ "$OSTYPE" == "linux-gnu" ]]; then
   #Linux
   HOSTFILE="/etc/hosts"
