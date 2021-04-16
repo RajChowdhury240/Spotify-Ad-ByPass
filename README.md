@@ -26,5 +26,5 @@
 
 ### Note :
 ```
-If You Want To Modify/Add/Remove Any Url To The Blocker Just Edit `Blacklists.txt` File.
+If You Want To Modify , Add , Remove Any Url To The Blocker Just Edit `Blacklists.txt` File.
 ```
