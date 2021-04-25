@@ -39,4 +39,3 @@ fi
 echo "Done, Ad-Bypass is gone....!!"
 exit
 # Happy Hacking.......!!
-
